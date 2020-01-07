@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.RollingJelly;
+package com.EDGE.RollingJelly;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

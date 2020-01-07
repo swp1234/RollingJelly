@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.YourCompany.RollingJelly;
+package com.EDGE.RollingJelly;
 
 import com.google.android.vending.expansion.downloader.impl.DownloaderService;
 
@@ -61,6 +61,6 @@ public class OBBDownloaderService extends DownloaderService {
      */
     @Override
     public String getAlarmReceiverClassName() {
-        return com.YourCompany.RollingJelly.AlarmReceiver.class.getName();
+        return com.EDGE.RollingJelly.AlarmReceiver.class.getName();
     }
 }

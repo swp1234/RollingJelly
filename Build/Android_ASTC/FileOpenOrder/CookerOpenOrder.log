@@ -315,92 +315,106 @@
 "../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 314
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 315
 "../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 316
-"F:/Unreal Projects/RollingJelly/Content/Maps/SampleMap_BuiltData.uasset" 317
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 318
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 319
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 320
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 321
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 322
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 323
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 324
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 325
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 326
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 327
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 328
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 329
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 330
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 331
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 332
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 333
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 334
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 335
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 336
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 337
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 338
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 339
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 340
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 341
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 342
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 343
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 344
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 345
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 346
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 347
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 348
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 349
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 350
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 351
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 352
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 353
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 354
-"F:/Unreal Projects/RollingJelly/Content/Maps/NewTouchInterface.uasset" 355
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 356
-"../../../Engine/Content/Maps/Entry.umap" 357
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_IdleAnimAtlas.uasset" 358
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle1.uasset" 359
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle2.uasset" 360
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle3.uasset" 361
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle4.uasset" 362
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle5.uasset" 363
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle6.uasset" 364
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle7.uasset" 365
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle8.uasset" 366
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleAnimation.uasset" 367
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_RunAnimAtlas.uasset" 368
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_1.uasset" 369
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_10.uasset" 370
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_11.uasset" 371
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_12.uasset" 372
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_13.uasset" 373
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_14.uasset" 374
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_15.uasset" 375
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_16.uasset" 376
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_2.uasset" 377
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_3.uasset" 378
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_4.uasset" 379
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_5.uasset" 380
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_6.uasset" 381
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_7.uasset" 382
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_8.uasset" 383
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_9.uasset" 384
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunningAnimation.uasset" 385
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 386
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_L.uasset" 387
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_L.uasset" 388
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_R.uasset" 389
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly.uasset" 390
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_R.uasset" 391
-"F:/Unreal Projects/RollingJelly/Content/Widget/JellyWidget.uasset" 392
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/JellyCharacter.uasset" 393
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/2DSideScrollerGameMode.uasset" 394
-"F:/Unreal Projects/RollingJelly/Content/Widget/MainMenuButton.uasset" 395
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/MenuButton.uasset" 396
-"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu_BuiltData.uasset" 397
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 398
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 399
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 400
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackground.uasset" 401
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Background_Sprite.uasset" 402
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackgroundBlockAtlas.uasset" 403
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Ledge.uasset" 404
-"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu.umap" 405
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 317
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 318
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 319
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 320
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 321
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 322
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 323
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 324
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 325
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 326
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 327
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 328
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 329
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 330
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveComponent.uasset" 331
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimCurveType.uasset" 332
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 333
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 334
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantType.uasset" 335
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 336
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 337
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 338
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 339
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 340
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 341
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 342
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 343
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 344
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 345
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 346
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 347
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 348
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 349
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 350
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 351
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 352
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 353
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/VirtualJoystick_Thumb.uasset" 354
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/VirtualJoystick_Background.uasset" 355
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/T_Castle_ThumbstickOutter.uasset" 356
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/T_Castle_ThumbstickInner.uasset" 357
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionStick.uasset" 358
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionPad3.uasset" 359
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionPad2.uasset" 360
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionPad.uasset" 361
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButtonFire.uasset" 362
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton3.uasset" 363
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton2_on.uasset" 364
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton2_off.uasset" 365
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton1_on.uasset" 366
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton1_off.uasset" 367
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/LeftVirtualJoystickOnly.uasset" 368
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/DefaultVirtualJoysticks.uasset" 369
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/AnalogHat.uasset" 370
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 371
+"../../../Engine/Content/Maps/Entry.umap" 372
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_IdleAnimAtlas.uasset" 373
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle1.uasset" 374
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle2.uasset" 375
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle3.uasset" 376
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle4.uasset" 377
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle5.uasset" 378
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle6.uasset" 379
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle7.uasset" 380
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle8.uasset" 381
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleAnimation.uasset" 382
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_RunAnimAtlas.uasset" 383
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_1.uasset" 384
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_10.uasset" 385
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_11.uasset" 386
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_12.uasset" 387
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_13.uasset" 388
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_14.uasset" 389
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_15.uasset" 390
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_16.uasset" 391
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_2.uasset" 392
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_3.uasset" 393
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_4.uasset" 394
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_5.uasset" 395
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_6.uasset" 396
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_7.uasset" 397
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_8.uasset" 398
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_9.uasset" 399
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunningAnimation.uasset" 400
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 401
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_L.uasset" 402
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_L.uasset" 403
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_R.uasset" 404
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_R.uasset" 405
+"F:/Unreal Projects/RollingJelly/Content/UI/Widget/JellyWidget.uasset" 406
+"F:/Unreal Projects/RollingJelly/Content/Blueprints/JellyCharacter.uasset" 407
+"F:/Unreal Projects/RollingJelly/Content/Blueprints/2DSideScrollerGameMode.uasset" 408
+"F:/Unreal Projects/RollingJelly/Content/UI/Widget/MainMenuButton.uasset" 409
+"F:/Unreal Projects/RollingJelly/Content/Blueprints/MenuButton.uasset" 410
+"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu_BuiltData.uasset" 411
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 412
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 413
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 414
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackground.uasset" 415
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Background_Sprite.uasset" 416
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackgroundBlockAtlas.uasset" 417
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Ledge.uasset" 418
+"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu.umap" 419

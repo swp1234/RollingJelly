@@ -1588,516 +1588,530 @@
 "F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackgroundTile.uasset" 1587
 "F:/Unreal Projects/RollingJelly/Content/Art/Materials/PrototypingSpriteMaterial.uasset" 1588
 "F:/Unreal Projects/RollingJelly/Content/Art/Sprite/PrototypingSprite.uasset" 1589
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/NewBlueprint.uasset" 1590
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1591
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1592
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_400x300.uasset" 1593
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_400x400.uasset" 1594
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_500x500.uasset" 1595
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1596
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1597
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Collapse01.uasset" 1598
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Collapse02.uasset" 1599
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Explosion01.uasset" 1600
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Explosion02.uasset" 1601
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire01.uasset" 1602
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1603
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light01.uasset" 1604
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light01_Cue.uasset" 1605
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light02.uasset" 1606
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light02_Cue.uasset" 1607
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Smoke01.uasset" 1608
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Birds01.uasset" 1609
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Music01.uasset" 1610
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Wind05.uasset" 1611
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Wind06.uasset" 1612
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Steam01.uasset" 1613
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Explosion_Cue.uasset" 1614
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Burst_M.uasset" 1615
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1616
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1617
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1618
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1619
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1620
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1621
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1622
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1623
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Explosion.uasset" 1624
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1625
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1626
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1627
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Bush_D.uasset" 1628
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Bush_N.uasset" 1629
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Bush.uasset" 1630
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Bush.uasset" 1631
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Chair_M.uasset" 1632
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Chair_N.uasset" 1633
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Chair.uasset" 1634
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Couch.uasset" 1635
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Glass.uasset" 1636
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Door_M.uasset" 1637
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Door_N.uasset" 1638
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Door.uasset" 1639
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Door.uasset" 1640
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1641
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1642
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1643
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1644
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1645
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1646
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1647
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Rock.uasset" 1648
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Rock.uasset" 1649
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Shelf_M.uasset" 1650
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Shelf_N.uasset" 1651
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1652
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Shelf.uasset" 1653
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1654
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Stairs.uasset" 1655
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Cone.uasset" 1656
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1657
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1658
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1659
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1660
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1661
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Plane.uasset" 1662
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Torus.uasset" 1663
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Trim.uasset" 1664
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1665
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1666
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1667
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Tube.uasset" 1668
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1669
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1670
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1671
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1672
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1673
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1674
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1675
-"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1676
-"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1677
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1678
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1679
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1680
-"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1681
-"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1682
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1683
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset" 1684
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1685
-"../../Plugins/Developer/AnimationSharing/Content/AnimSharingRed.uasset" 1686
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ActiveActor.uasset" 1687
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 1688
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 1689
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1690
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1691
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1692
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1693
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 1694
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrack.uasset" 1695
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenTimelineAnimation.uasset" 1696
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenTimeline.uasset" 1697
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1698
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1699
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1700
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1701
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 1702
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 1703
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrack.uasset" 1704
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDTimelineAnimation.uasset" 1705
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDTimeline.uasset" 1706
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/GeometryVariant.uasset" 1707
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/PackageVariant.uasset" 1708
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/CameraVariant.uasset" 1709
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchCamera.uasset" 1710
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchGeometry.uasset" 1711
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchPackage.uasset" 1712
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/SwitchObjectVariant.uasset" 1713
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchSwitchObject.uasset" 1714
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 1715
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitch.uasset" 1716
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1717
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/State.uasset" 1718
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDState.uasset" 1719
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDCameraVariant.uasset" 1720
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchCamera.uasset" 1721
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDGeometryVariant.uasset" 1722
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchGeometry.uasset" 1723
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDLightVariant.uasset" 1724
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchLight.uasset" 1725
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDMaterialVariant.uasset" 1726
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchMaterial.uasset" 1727
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDPackageVariant.uasset" 1728
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchPackage.uasset" 1729
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDTransformVariant.uasset" 1730
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchTransform.uasset" 1731
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 1732
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitch.uasset" 1733
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1734
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1735
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1736
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1737
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1738
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1739
-"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1740
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1741
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1742
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1743
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1744
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1745
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 1746
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1747
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 1748
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1749
-"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1750
-"../../../Engine/Content/EngineMaterials/T_DefaultTexture2_D.uasset" 1751
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 1752
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1753
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1754
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1755
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1756
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1757
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1758
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1759
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1760
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1761
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1762
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1763
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1764
-"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 1765
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 1766
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1767
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1768
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1769
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1770
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1771
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1772
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1773
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1774
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1775
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1776
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1777
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1778
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1779
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1780
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1781
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1782
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1783
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1784
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1785
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1786
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1787
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1788
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1789
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1790
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/CarColorTable.uasset" 1791
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/CarFlakes.uasset" 1792
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/AdjustNormal.uasset" 1793
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/AngularDirection.uasset" 1794
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/WhiteSquareTexture.uasset" 1795
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Carpaint.uasset" 1796
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Base.uasset" 1797
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/ClearCoat.uasset" 1798
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/ColorMap.uasset" 1799
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Emissive.uasset" 1800
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/GrayscaleMap.uasset" 1801
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Masked.uasset" 1802
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/NormalMap.uasset" 1803
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Opaque.uasset" 1804
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Subsurface.uasset" 1805
-"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Transparent.uasset" 1806
-"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1807
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1808
-"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1809
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1810
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1811
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1812
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1813
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1814
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1815
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1816
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1817
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1818
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1819
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1820
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1821
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1822
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1823
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1824
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1825
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1826
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1827
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1828
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1829
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1830
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1831
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1832
-"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1833
-"F:/Unreal Projects/RollingJelly/Content/Maps/NewTouchInterface.uasset" 1834
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1835
-"../../../Engine/Content/Maps/Entry.umap" 1836
-"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1837
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1838
-"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1839
-"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1840
-"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1841
-"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1842
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1843
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1844
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1845
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1846
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1847
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1848
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1849
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1850
-"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1851
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1852
-"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1853
-"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1854
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_IdleAnimAtlas.uasset" 1855
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle1.uasset" 1856
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle2.uasset" 1857
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle3.uasset" 1858
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle4.uasset" 1859
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle5.uasset" 1860
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle6.uasset" 1861
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle7.uasset" 1862
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle8.uasset" 1863
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleAnimation.uasset" 1864
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_RunAnimAtlas.uasset" 1865
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_1.uasset" 1866
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_10.uasset" 1867
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_11.uasset" 1868
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_12.uasset" 1869
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_13.uasset" 1870
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_14.uasset" 1871
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_15.uasset" 1872
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_16.uasset" 1873
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_2.uasset" 1874
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_3.uasset" 1875
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_4.uasset" 1876
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_5.uasset" 1877
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_6.uasset" 1878
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_7.uasset" 1879
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_8.uasset" 1880
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_9.uasset" 1881
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunningAnimation.uasset" 1882
-"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1883
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_L.uasset" 1884
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_L.uasset" 1885
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_R.uasset" 1886
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly.uasset" 1887
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_R.uasset" 1888
-"F:/Unreal Projects/RollingJelly/Content/Widget/JellyWidget.uasset" 1889
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/JellyCharacter.uasset" 1890
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/2DSideScrollerGameMode.uasset" 1891
-"F:/Unreal Projects/RollingJelly/Content/Widget/MainMenuButton.uasset" 1892
-"F:/Unreal Projects/RollingJelly/Content/Blueprints/MenuButton.uasset" 1893
-"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu_BuiltData.uasset" 1894
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1895
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1896
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1897
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackground.uasset" 1898
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Background_Sprite.uasset" 1899
-"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackgroundBlockAtlas.uasset" 1900
-"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Ledge.uasset" 1901
-"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu.umap" 1902
-"F:/Unreal Projects/RollingJelly/Content/Maps/SampleMap_BuiltData.uasset" 1903
-"F:/Unreal Projects/RollingJelly/Content/Maps/SampleMap.umap" 1904
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1905
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1906
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1907
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1908
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1909
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1910
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1911
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1912
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1913
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1914
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1915
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1916
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1917
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1918
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1919
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1920
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1921
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1922
-"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1923
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1924
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Advanced_Lighting.umap" 1925
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1926
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_MacroVariation.uasset" 1927
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1928
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1929
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1930
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1931
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1932
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1933
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Statue_M.uasset" 1934
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Statue_N.uasset" 1935
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1936
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Floor_400x400.uasset" 1937
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1938
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Chair.uasset" 1939
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Statue.uasset" 1940
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Statue.uasset" 1941
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_TableRound_M.uasset" 1942
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_TableRound_N.uasset" 1943
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1944
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_TableRound.uasset" 1945
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Minimal_Default.umap" 1946
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire01_Cue.uasset" 1947
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1948
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1949
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1950
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Water_N.uasset" 1951
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1952
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1953
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Fire.uasset" 1954
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1955
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1956
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Smoke.uasset" 1957
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1958
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1959
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Spark_Core.uasset" 1960
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1961
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Sparks.uasset" 1962
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1963
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Steam01_Cue.uasset" 1964
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1965
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1966
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Lamp_M.uasset" 1967
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Lamp_N.uasset" 1968
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1969
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1970
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1971
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1972
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1973
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1974
-"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1975
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1976
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1977
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1978
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1979
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1980
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1981
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1982
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1983
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1984
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1985
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 1986
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 1987
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 1988
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 1989
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 1990
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 1991
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 1992
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 1993
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 1994
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 1995
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 1996
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 1997
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 1998
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 1999
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2000
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2001
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2002
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2003
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2004
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2005
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2006
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2007
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2008
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2009
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2010
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2011
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2012
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2013
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2014
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2015
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2016
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2017
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2018
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2019
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2020
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2021
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2022
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2023
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2024
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2025
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2026
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2027
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2028
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2029
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2030
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2031
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2032
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2033
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2034
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2035
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 2036
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Gold.uasset" 2037
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2038
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2039
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2040
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2041
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2042
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2043
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2044
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2045
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2046
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2047
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2048
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2049
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2050
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2051
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 2052
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 2053
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 2054
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 2055
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2056
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2057
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2058
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2059
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2060
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2061
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2062
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2063
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Water_Lake.uasset" 2064
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Water_M.uasset" 2065
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2066
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2067
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2068
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2069
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2070
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2071
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2072
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2073
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2074
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2075
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2076
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2077
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2078
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2079
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2080
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_400x200.uasset" 2081
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2082
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2083
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Collapse_Cue.uasset" 2084
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2085
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2086
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2087
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2088
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/MaterialSphere.uasset" 2089
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Frame_M.uasset" 2090
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Frame_N.uasset" 2091
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Frame.uasset" 2092
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_CornerFrame.uasset" 2093
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_DoorFrame.uasset" 2094
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_GlassWindow.uasset" 2095
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_PillarFrame.uasset" 2096
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2097
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_WindowFrame.uasset" 2098
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Cube.uasset" 2099
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2100
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2101
-"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/StarterMap.umap" 2102
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Basic_Wall.uasset" 1590
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1591
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_400x300.uasset" 1592
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_400x400.uasset" 1593
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_500x500.uasset" 1594
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 1595
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 1596
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Collapse01.uasset" 1597
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Collapse02.uasset" 1598
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Explosion01.uasset" 1599
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Explosion02.uasset" 1600
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire01.uasset" 1601
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire_Sparks01.uasset" 1602
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light01.uasset" 1603
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light01_Cue.uasset" 1604
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light02.uasset" 1605
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Light02_Cue.uasset" 1606
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Smoke01.uasset" 1607
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Birds01.uasset" 1608
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Music01.uasset" 1609
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Wind05.uasset" 1610
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Wind06.uasset" 1611
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Steam01.uasset" 1612
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Explosion_Cue.uasset" 1613
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Burst_M.uasset" 1614
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Burst.uasset" 1615
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 1616
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 1617
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 1618
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 1619
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 1620
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 1621
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 1622
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Explosion.uasset" 1623
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 1624
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 1625
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 1626
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Bush_D.uasset" 1627
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Bush_N.uasset" 1628
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Bush.uasset" 1629
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Bush.uasset" 1630
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Chair_M.uasset" 1631
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Chair_N.uasset" 1632
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Chair.uasset" 1633
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Couch.uasset" 1634
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Glass.uasset" 1635
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Door_M.uasset" 1636
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Door_N.uasset" 1637
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Door.uasset" 1638
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Door.uasset" 1639
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 1640
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 1641
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 1642
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 1643
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 1644
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_RockMesh_M.uasset" 1645
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_RockMesh_N.uasset" 1646
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Rock.uasset" 1647
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Rock.uasset" 1648
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Shelf_M.uasset" 1649
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Shelf_N.uasset" 1650
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Shelf.uasset" 1651
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Shelf.uasset" 1652
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Basic_Floor.uasset" 1653
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Stairs.uasset" 1654
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Cone.uasset" 1655
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 1656
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 1657
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Pipe.uasset" 1658
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 1659
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 1660
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Plane.uasset" 1661
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Torus.uasset" 1662
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Trim.uasset" 1663
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 1664
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 1665
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 1666
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Tube.uasset" 1667
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1668
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1669
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1670
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 1671
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 1672
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1673
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1674
+"../../Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1675
+"../../Plugins/2D/Paper2D/Content/MaskedLitSpriteMaterial.uasset" 1676
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 1677
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 1678
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1679
+"../../Plugins/2D/Paper2D/Content/OpaqueLitSpriteMaterial.uasset" 1680
+"../../Plugins/2D/Paper2D/Content/TranslucentLitSpriteMaterial.uasset" 1681
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBase.uasset" 1682
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingBlue.uasset" 1683
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingGreen.uasset" 1684
+"../../Plugins/Developer/AnimationSharing/Content/AnimSharingRed.uasset" 1685
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ActiveActor.uasset" 1686
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfActor.uasset" 1687
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/ArrayOfSwitch.uasset" 1688
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1689
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1690
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1691
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1692
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrackType.uasset" 1693
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenAnimationTrack.uasset" 1694
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenTimelineAnimation.uasset" 1695
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/DeltaGenTimeline.uasset" 1696
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1697
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1698
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1699
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1700
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackComponent.uasset" 1701
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrackType.uasset" 1702
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationTrack.uasset" 1703
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDTimelineAnimation.uasset" 1704
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDTimeline.uasset" 1705
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/GeometryVariant.uasset" 1706
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/PackageVariant.uasset" 1707
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/CameraVariant.uasset" 1708
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchCamera.uasset" 1709
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchGeometry.uasset" 1710
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchPackage.uasset" 1711
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/SwitchObjectVariant.uasset" 1712
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchSwitchObject.uasset" 1713
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitchType.uasset" 1714
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VariantSwitch.uasset" 1715
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1716
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/State.uasset" 1717
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDState.uasset" 1718
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDCameraVariant.uasset" 1719
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchCamera.uasset" 1720
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDGeometryVariant.uasset" 1721
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchGeometry.uasset" 1722
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDLightVariant.uasset" 1723
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchLight.uasset" 1724
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDMaterialVariant.uasset" 1725
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchMaterial.uasset" 1726
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDPackageVariant.uasset" 1727
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchPackage.uasset" 1728
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDTransformVariant.uasset" 1729
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchTransform.uasset" 1730
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitchType.uasset" 1731
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantSwitch.uasset" 1732
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1733
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1734
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsStruct.uasset" 1735
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/cylinder.uasset" 1736
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/disc.uasset" 1737
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/sphere.uasset" 1738
+"../../Plugins/Enterprise/DatasmithContent/Content/Meshes/square.uasset" 1739
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/AreaLightsTable.uasset" 1740
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Arealight.uasset" 1741
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1742
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1743
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1744
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 1745
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 1746
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMasterUV.uasset" 1747
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 1748
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 1749
+"../../../Engine/Content/EngineMaterials/T_DefaultTexture2_D.uasset" 1750
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/C4DMaster.uasset" 1751
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 1752
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 1753
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 1754
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 1755
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CropUV.uasset" 1756
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CroppedUVMapping.uasset" 1757
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 1758
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 1759
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 1760
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 1761
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/HSVtoRGB.uasset" 1762
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MirrorUVTiling.uasset" 1763
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 1764
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 1765
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RGBtoHSV.uasset" 1766
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 1767
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 1768
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 1769
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 1770
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterAbsorb.uasset" 1771
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterClearCoat.uasset" 1772
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 1773
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDUVEdit.uasset" 1774
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDBase.uasset" 1775
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMaster.uasset" 1776
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterAbsorb.uasset" 1777
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterClearCoat.uasset" 1778
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VREDMasterTransparent.uasset" 1779
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 1780
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 1781
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 1782
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 1783
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 1784
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 1785
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 1786
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 1787
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 1788
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 1789
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/CarColorTable.uasset" 1790
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/CarFlakes.uasset" 1791
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/AdjustNormal.uasset" 1792
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/AngularDirection.uasset" 1793
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/WhiteSquareTexture.uasset" 1794
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Carpaint.uasset" 1795
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Base.uasset" 1796
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/ClearCoat.uasset" 1797
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/ColorMap.uasset" 1798
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Emissive.uasset" 1799
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/GrayscaleMap.uasset" 1800
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Masked.uasset" 1801
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/NormalMap.uasset" 1802
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Opaque.uasset" 1803
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Subsurface.uasset" 1804
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/MDL/Transparent.uasset" 1805
+"../../Plugins/Enterprise/DatasmithContent/Content/Textures/S_LightArea.uasset" 1806
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneTexture.uasset" 1807
+"../../Plugins/Media/MediaCompositing/Content/DefaultMediaPlaneMaterial.uasset" 1808
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_GreenKey.uasset" 1809
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1810
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1811
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1812
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1813
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1814
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 1815
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 1816
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 1817
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 1818
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 1819
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 1820
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 1821
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 1822
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 1823
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 1824
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/OculusGoController_albedo.uasset" 1825
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusGoControllerMaterial.uasset" 1826
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/OculusGoController.uasset" 1827
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 1828
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorHead.uasset" 1829
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftSensorStem.uasset" 1830
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 1831
+"../../Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset" 1832
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/VirtualJoystick_Thumb.uasset" 1833
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/VirtualJoystick_Background.uasset" 1834
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/T_Castle_ThumbstickOutter.uasset" 1835
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/T_Castle_ThumbstickInner.uasset" 1836
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionStick.uasset" 1837
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionPad3.uasset" 1838
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionPad2.uasset" 1839
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDDirectionPad.uasset" 1840
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButtonFire.uasset" 1841
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton3.uasset" 1842
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton2_on.uasset" 1843
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton2_off.uasset" 1844
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton1_on.uasset" 1845
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/MobileHUDButton1_off.uasset" 1846
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/LeftVirtualJoystickOnly.uasset" 1847
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/DefaultVirtualJoysticks.uasset" 1848
+"F:/Unreal Projects/RollingJelly/Content/UI/HUD/AnalogHat.uasset" 1849
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1850
+"../../../Engine/Content/Maps/Entry.umap" 1851
+"../../../Engine/Content/Maps/Templates/Template_Default_BuiltData.uasset" 1852
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1853
+"../../../Engine/Content/Maps/Templates/Template_Default.umap" 1854
+"../../../Engine/Content/Maps/Templates/VR-Basic_BuiltData.uasset" 1855
+"../../../Engine/Content/VREditor/BasicMeshes/T_CleanFloorGrunge_01_D.uasset" 1856
+"../../../Engine/Content/VREditor/BasicMeshes/M_Floor_01.uasset" 1857
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Ball_01.uasset" 1858
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Ball_01.uasset" 1859
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_01.uasset" 1860
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 1861
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_02.uasset" 1862
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_02.uasset" 1863
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Cube_03.uasset" 1864
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_03.uasset" 1865
+"../../../Engine/Content/VREditor/BasicMeshes/MI_Pyramid_01.uasset" 1866
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Pyramid_01.uasset" 1867
+"../../../Engine/Content/VREditor/BasicMeshes/SM_Room_01.uasset" 1868
+"../../../Engine/Content/Maps/Templates/VR-Basic.umap" 1869
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_IdleAnimAtlas.uasset" 1870
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle1.uasset" 1871
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle2.uasset" 1872
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle3.uasset" 1873
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle4.uasset" 1874
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle5.uasset" 1875
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle6.uasset" 1876
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle7.uasset" 1877
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleFrames/IdleCycle8.uasset" 1878
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/IdleAnimation.uasset" 1879
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DCharacter_RunAnimAtlas.uasset" 1880
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_1.uasset" 1881
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_10.uasset" 1882
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_11.uasset" 1883
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_12.uasset" 1884
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_13.uasset" 1885
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_14.uasset" 1886
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_15.uasset" 1887
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_16.uasset" 1888
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_2.uasset" 1889
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_3.uasset" 1890
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_4.uasset" 1891
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_5.uasset" 1892
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_6.uasset" 1893
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_7.uasset" 1894
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_8.uasset" 1895
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunFrames/RunCycle_9.uasset" 1896
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/RunningAnimation.uasset" 1897
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 1898
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_L.uasset" 1899
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_L.uasset" 1900
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_R.uasset" 1901
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/Jelly_Sprite_R.uasset" 1902
+"F:/Unreal Projects/RollingJelly/Content/UI/Widget/JellyWidget.uasset" 1903
+"F:/Unreal Projects/RollingJelly/Content/Blueprints/JellyCharacter.uasset" 1904
+"F:/Unreal Projects/RollingJelly/Content/Blueprints/2DSideScrollerGameMode.uasset" 1905
+"F:/Unreal Projects/RollingJelly/Content/UI/Widget/MainMenuButton.uasset" 1906
+"F:/Unreal Projects/RollingJelly/Content/Blueprints/MenuButton.uasset" 1907
+"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu_BuiltData.uasset" 1908
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1909
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1910
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1911
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackground.uasset" 1912
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Background_Sprite.uasset" 1913
+"F:/Unreal Projects/RollingJelly/Content/Art/Textures/2DBackgroundBlockAtlas.uasset" 1914
+"F:/Unreal Projects/RollingJelly/Content/Art/Sprite/Ledge.uasset" 1915
+"F:/Unreal Projects/RollingJelly/Content/Maps/MainMenu.umap" 1916
+"F:/Unreal Projects/RollingJelly/Content/Maps/SampleMap_BuiltData.uasset" 1917
+"F:/Unreal Projects/RollingJelly/Content/Maps/SampleMap.umap" 1918
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 1919
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 1920
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 1921
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 1922
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 1923
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 1924
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 1925
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 1926
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 1927
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 1928
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 1929
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_AssetPlatform.uasset" 1930
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 1931
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 1932
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 1933
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 1934
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 1935
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 1936
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 1937
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 1938
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Advanced_Lighting.umap" 1939
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 1940
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_MacroVariation.uasset" 1941
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 1942
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 1943
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 1944
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 1945
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 1946
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Copper.uasset" 1947
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Statue_M.uasset" 1948
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Statue_N.uasset" 1949
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 1950
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Floor_400x400.uasset" 1951
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 1952
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Chair.uasset" 1953
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Statue.uasset" 1954
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Statue.uasset" 1955
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_TableRound_M.uasset" 1956
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_TableRound_N.uasset" 1957
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_TableRound.uasset" 1958
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_TableRound.uasset" 1959
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/Minimal_Default.umap" 1960
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire01_Cue.uasset" 1961
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 1962
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 1963
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 1964
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Water_N.uasset" 1965
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 1966
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 1967
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Fire.uasset" 1968
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 1969
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Smoke01_Cue.uasset" 1970
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Smoke.uasset" 1971
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 1972
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 1973
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Spark_Core.uasset" 1974
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Spark.uasset" 1975
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Sparks.uasset" 1976
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 1977
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Steam01_Cue.uasset" 1978
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Steam_Lit.uasset" 1979
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 1980
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Lamp_M.uasset" 1981
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Lamp_N.uasset" 1982
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Lamp.uasset" 1983
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 1984
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 1985
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 1986
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 1987
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 1988
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 1989
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 1990
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 1991
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 1992
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 1993
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 1994
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 1995
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 1996
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 1997
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 1998
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 1999
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 2000
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 2001
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 2002
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 2003
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 2004
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 2005
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 2006
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 2007
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 2008
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 2009
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 2010
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 2011
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 2012
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 2013
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 2014
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 2015
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 2016
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 2017
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 2018
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Gradinet_01.uasset" 2019
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 2020
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 2021
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 2022
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 2023
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 2024
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 2025
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 2026
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 2027
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 2028
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 2029
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 2030
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 2031
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 2032
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 2033
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 2034
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 2035
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 2036
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 2037
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 2038
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 2039
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 2040
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 2041
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ground_Grass.uasset" 2042
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 2043
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 2044
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 2045
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 2046
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 2047
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Ground_Moss.uasset" 2048
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 2049
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 2050
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Gold.uasset" 2051
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 2052
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Rust.uasset" 2053
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 2054
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 2055
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Metal_Steel.uasset" 2056
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 2057
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 2058
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 2059
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 2060
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 2061
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 2062
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 2063
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 2064
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Rock_Slate.uasset" 2065
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 2066
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 2067
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 2068
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 2069
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 2070
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 2071
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 2072
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 2073
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 2074
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 2075
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 2076
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Tech_Panel.uasset" 2077
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Water_Lake.uasset" 2078
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Water_M.uasset" 2079
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Water_Ocean.uasset" 2080
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 2081
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 2082
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 2083
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 2084
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 2085
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 2086
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 2087
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Oak.uasset" 2088
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 2089
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 2090
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Pine.uasset" 2091
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 2092
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 2093
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 2094
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_400x200.uasset" 2095
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 2096
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 2097
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Collapse_Cue.uasset" 2098
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 2099
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 2100
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 2101
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 2102
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/MaterialSphere.uasset" 2103
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Frame_M.uasset" 2104
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Textures/T_Frame_N.uasset" 2105
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/Materials/M_Frame.uasset" 2106
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_CornerFrame.uasset" 2107
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_DoorFrame.uasset" 2108
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_GlassWindow.uasset" 2109
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_PillarFrame.uasset" 2110
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_PillarFrame300.uasset" 2111
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Props/SM_WindowFrame.uasset" 2112
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Cube.uasset" 2113
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 2114
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Shapes/Shape_Sphere.uasset" 2115
+"F:/Unreal Projects/RollingJelly/Content/StarterContent/Maps/StarterMap.umap" 2116
