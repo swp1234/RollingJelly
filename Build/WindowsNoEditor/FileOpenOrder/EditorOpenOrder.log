@@ -1752,455 +1752,453 @@
 "../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 1752
 "../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1753
 "F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Intermediate/AssetRegistryCache/311563bb.bin" 1754
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Intermediate/AssetRegistryCache/c90e3f55.bin" 1755
-"C:/Users/swp55/AppData/Local/UnrealEngine/4.23/Saved/AutoLoadProject.txt" 1756
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1757
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1758
-"../../../Engine/Content/BasicShapes/Cube.uasset" 1759
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 1760
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1761
-"../../../Engine/Content/BasicShapes/Cone.uasset" 1762
-"../../../Engine/Content/BasicShapes/Plane.uasset" 1763
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1764
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1765
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1766
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1767
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1768
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1769
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1770
-"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1771
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Intermediate/AssetRegistryCache/fc0b6af2.bin" 1772
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/MainMenu.umap" 1773
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/MainMenu_backup.umap" 1774
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE1.umap" 1775
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE2.umap" 1776
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE3.umap" 1777
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE4.umap" 1778
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE5.umap" 1779
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE6.umap" 1780
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE7.umap" 1781
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE8.umap" 1782
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE9.umap" 1783
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE_COMMON.umap" 1784
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE10.umap" 1785
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE11.umap" 1786
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE12.umap" 1787
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/DestructibleBlock.uasset" 1788
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/InGameController.uasset" 1789
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/InGameGameMode.uasset" 1790
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/InvisibleBlock.uasset" 1791
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainGameInstance.uasset" 1792
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainJelly.uasset" 1793
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainMenuController.uasset" 1794
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainMenuGameMode.uasset" 1795
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/PlayerObserverInterface.uasset" 1796
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/PlayingJelly.uasset" 1797
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE1.umap" 1755
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Intermediate/AssetRegistryCache/c90e3f55.bin" 1756
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/PlayingJelly.uasset" 1757
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/DestinationFlag.uasset" 1758
+"C:/Users/swp55/AppData/Local/UnrealEngine/4.23/Saved/AutoLoadProject.txt" 1759
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 1760
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 1761
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1762
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1763
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 1764
+"../../../Engine/Content/BasicShapes/Cone.uasset" 1765
+"../../../Engine/Content/BasicShapes/Plane.uasset" 1766
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 1767
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 1768
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 1769
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 1770
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 1771
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 1772
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 1773
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 1774
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Intermediate/AssetRegistryCache/fc0b6af2.bin" 1775
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/MainMenu.umap" 1776
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE2.umap" 1777
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE3.umap" 1778
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE4.umap" 1779
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE5.umap" 1780
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE6.umap" 1781
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE7.umap" 1782
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE8.umap" 1783
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE9.umap" 1784
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE_COMMON.umap" 1785
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE10.umap" 1786
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE11.umap" 1787
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE12.umap" 1788
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/DestructibleBlock.uasset" 1789
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/InGameController.uasset" 1790
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/InGameGameMode.uasset" 1791
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/InvisibleBlock.uasset" 1792
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainGameInstance.uasset" 1793
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainJelly.uasset" 1794
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainMenuController.uasset" 1795
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/MainMenuGameMode.uasset" 1796
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/PlayerObserverInterface.uasset" 1797
 "F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/SavedGameData.uasset" 1798
 "F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Blueprints/Teleport.uasset" 1799
 "F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/BackButton.uasset" 1800
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/DestinationFlag.uasset" 1801
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/MenuButton.uasset" 1802
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/PauseButton.uasset" 1803
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/RemainingCollisionText.uasset" 1804
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/ReplayButton.uasset" 1805
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/StageButton.uasset" 1806
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1807
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1808
-"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1809
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1810
-"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1811
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1812
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1813
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1814
-"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1815
-"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1816
-"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 1817
-"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 1818
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1819
-"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 1820
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1821
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1822
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1823
-"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1824
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1825
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1826
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1827
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1828
-"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1829
-"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1830
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1831
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1832
-"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1833
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1834
-"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1835
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1836
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1837
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1838
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1839
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1840
-"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1841
-"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1842
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1843
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1844
-"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1845
-"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1846
-"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1847
-"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 1848
-"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1849
-"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1850
-"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1851
-"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1852
-"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1853
-"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1854
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1855
-"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1856
-"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1857
-"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1858
-"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1859
-"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1860
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1861
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1862
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1863
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1864
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1865
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1866
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1867
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1868
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1869
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1870
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1871
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1872
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1873
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 1874
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1875
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1876
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1877
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1878
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1879
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1880
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1881
-"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1882
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/BackButton.uasset" 1883
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/DestinationFlag.uasset" 1884
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/GameResultText.uasset" 1885
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/JellyWidget.uasset" 1886
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/MainMenuButton.uasset" 1887
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/PauseButton.uasset" 1888
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/ReplayButton.uasset" 1889
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/StageCollisionText.uasset" 1890
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/StageSelectWidget.uasset" 1891
-"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 1892
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 1893
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDAnimationSampleUI.uasset" 1894
-"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDVariantSampleUI.uasset" 1895
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1896
-"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1897
-"../../../Engine/Config//BaseEngine.ini" 1898
-"../../../Engine/Config/HTML5/HTML5Engine.ini" 1899
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Character_1.uasset" 1900
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Character_BG.uasset" 1901
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Character_FG.uasset" 1902
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5E5C8EABADB1F0759BDEF1F5C9F7FAC3478859E9.udd" 1903
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0814BFFE3113241DF647497A33B84C895E6F9EE4.udd" 1904
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___076195750B54FE10DEFD7E39CA2E014DACC71A8C.udd" 1905
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FF9C7DAA1C725D5E9B47B4F7935F6D5000C8EE17.udd" 1906
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D9347A0B358D982D2F6147F899CB28B38F9A572D.udd" 1907
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___495EC60C27F2AE4779CF78D33D4F8CCAE4C66EE2.udd" 1908
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___666BD8766C209F7D13EDDC9AB7695369A060AFF5.udd" 1909
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8E485064B223A07DA423702BE793EEB1B5F8D180.udd" 1910
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3D044FDE1166E83E7C0755FA6AE5CDED208A8B63.udd" 1911
-"../../../Engine/Content/Maps/Entry.umap" 1912
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1913
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A57A250E6ED2A22325737ED1A87E6C95027EF59F.udd" 1914
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0AA424B7F607D59CD881F93A415CA9049C76F590.udd" 1915
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EE302CA614F3FEF5233BBE07927D530BE142DE30.udd" 1916
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EFC77EF87B524D2B3FD3EB0B1437D96D5FD2D08D.udd" 1917
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EC5D17C379277E308EC2D390E972E5DAD6515E16.udd" 1918
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A56F897DF6ABCCFDDCEA60ED36625047288B288B.udd" 1919
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Data/StageCollisionLimit.uasset" 1920
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Data/CollisionLimit.uasset" 1921
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F6EBB31CC8A5672E27BEBAD3309B8CB7FAF15ABD.udd" 1922
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___564FC8355A7B2C8890FACEEBA9D98E0287768F95.udd" 1923
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___461489CB20F2EFDE85E7A50C496523DDB680CCD4.udd" 1924
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___363C4729EBA57FA874450AEF09A203B2C15760AC.udd" 1925
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___38BF73ED2A89D1C9869DE479DD3E0F238274F9F3.udd" 1926
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___92F9403C5B6DAF07A73A931A216B0E14707ECF5E.udd" 1927
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___AB355649964CCF25FDD5E5D52ADB3D516DF63A14.udd" 1928
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4547BB55413996ECEA31229BD1211__1C7CD25E9E8B2B1D13DA0258A570DFFECE2D7510.udd" 1929
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__94C9731640C5682ABB4AA8DC4E94530308D7B5A6.udd" 1930
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__81A085B8A8BFB6A30FCED28883D6F3672404725F.udd" 1931
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__4D6D4A397F21B1179C57D556BBDECFDE56FD7901.udd" 1932
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__4FC2D210D9D32FC6804CB12410828AC49EE0533B.udd" 1933
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__090FAF3041044E650FD3CECBB77B19E40B047C61.udd" 1934
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__CAAA3C69585D018687044F309A78AE2CDCDBDB39.udd" 1935
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__356F020E0559F6E7C0C1D47C0F978A18601AF985.udd" 1936
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__A668123C3EC4194AC55E8B82350B5606FE5359DC.udd" 1937
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__F6BD33493E443C96A1CA45D71CA30E8D57592D10.udd" 1938
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__ACB273244FFA17D61592798D5965648D9373D6FD.udd" 1939
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__43AC3C6EA3F6CDC040D0B75C5FCD44097D8B939E.udd" 1940
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__5D47CAB869E312BAF0E25CDA0345787F90B3B4AC.udd" 1941
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_CREDIT.uasset" 1942
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_EXIT.uasset" 1943
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_START.uasset" 1944
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/BMDOHYEON_FONT.uasset" 1945
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/BMDOHYEON.uasset" 1946
-"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1947
-"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1948
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE1_Sprite.uasset" 1949
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE1.uasset" 1950
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Audio/Island_Fever.uasset" 1951
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/MenuButton.uasset" 1801
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/PauseButton.uasset" 1802
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/RemainingCollisionText.uasset" 1803
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/ReplayButton.uasset" 1804
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/StageButton.uasset" 1805
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Game.uasset" 1806
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_LevelBP.uasset" 1807
+"../../../Engine/Content/ArtTools/RenderToTexture/Blueprints/RenderToTexture_Pawn.uasset" 1808
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary.uasset" 1809
+"../../../Engine/Content/ArtTools/RenderToTexture/Macros/RenderToTextureMacros.uasset" 1810
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 1811
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 1812
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1813
+"../../../Engine/Content/FunctionalTesting/Blueprints/AITesting_MoveGoal.uasset" 1814
+"../../../Engine/Content/Sequencer/DefaultBurnInOptions.uasset" 1815
+"../../../Engine/Content/Tutorial/Basics/ContentBrowserOverview.uasset" 1816
+"../../../Engine/Content/Tutorial/Basics/FeaturePacks.uasset" 1817
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 1818
+"../../../Engine/Content/Tutorial/Basics/ViewportsTutorial.uasset" 1819
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 1820
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 1821
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 1822
+"../../../Engine/Content/Tutorial/BlueprintTutorials/ClassBlueprintsEditorOverview.uasset" 1823
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 1824
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Class.uasset" 1825
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 1826
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 1827
+"../../../Engine/Content/Tutorial/Code/AddingCode.uasset" 1828
+"../../../Engine/Content/Tutorial/Foliage/FoliageWalkThrough.uasset" 1829
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 1830
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 1831
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 1832
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 1833
+"../../../Engine/Content/Tutorial/Installation/InstallingXCodeTutorial.uasset" 1834
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial.uasset" 1835
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part2.uasset" 1836
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/IWBE_Tutorial_Part3.uasset" 1837
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.uasset" 1838
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge1.uasset" 1839
+"../../../Engine/Content/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Bridge2.uasset" 1840
+"../../../Engine/Content/Tutorial/Landscape/LandscapeWalkThrough.uasset" 1841
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 1842
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 1843
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 1844
+"../../../Engine/Content/Tutorial/Mobile/CreatingSigningCertAndProvisionTutorial.uasset" 1845
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 1846
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 1847
+"../../../Engine/Content/Tutorial/Mobile/SettingUpLuminTutorial.uasset" 1848
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 1849
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 1850
+"../../../Engine/Content/Tutorial/SubEditors/GettingSubstance.uasset" 1851
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 1852
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 1853
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 1854
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkthrough.uasset" 1855
+"../../../Engine/Content/Tutorial/SubEditors/PersonaWalkthrough.uasset" 1856
+"../../../Engine/Content/Tutorial/SubEditors/SkeletalMeshEditorWalkthrough.uasset" 1857
+"../../../Engine/Content/Tutorial/SubEditors/SkeletonModeWalkthrough.uasset" 1858
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 1859
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 1860
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_AnimatedNode.uasset" 1861
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Animation.uasset" 1862
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneNode.uasset" 1863
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SceneRoot.uasset" 1864
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_SharedNode.uasset" 1865
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Switch.uasset" 1866
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_Toggle.uasset" 1867
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimatedNode.uasset" 1868
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimation.uasset" 1869
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/BP_VREDAnimNode.uasset" 1870
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/FBXImporterUtils.uasset" 1871
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/BP_AnimationPlayer.uasset" 1872
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/ImportedSequencesHelper.uasset" 1873
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Animation/VREDAnimationPlayer.uasset" 1874
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/BP_VariantSelector.uasset" 1875
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/Variants/VREDVariantsSelector.uasset" 1876
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithActor.uasset" 1877
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithAreaLight.uasset" 1878
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithArealightMesh.uasset" 1879
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithLayer.uasset" 1880
+"../../Plugins/Enterprise/DatasmithContent/Content/Datasmith/DatasmithSelector.uasset" 1881
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/BackButton.uasset" 1882
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/DestinationFlag.uasset" 1883
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/GameResultText.uasset" 1884
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/JellyWidget.uasset" 1885
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/MainMenuButton.uasset" 1886
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/PauseButton.uasset" 1887
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/ReplayButton.uasset" 1888
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/StageCollisionText.uasset" 1889
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Widget/StageSelectWidget.uasset" 1890
+"../../../Engine/Content/Sequencer/DefaultBurnIn.uasset" 1891
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/AnimationSampleUI.uasset" 1892
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDAnimationSampleUI.uasset" 1893
+"../../Plugins/Enterprise/DatasmithContent/Content/Blueprints/FBXImporter/UI/VREDVariantSampleUI.uasset" 1894
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialAnimationBlueprint.uasset" 1895
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 1896
+"../../../Engine/Config//BaseEngine.ini" 1897
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 1898
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Character_1.uasset" 1899
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Character_BG.uasset" 1900
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Character_FG.uasset" 1901
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___5E5C8EABADB1F0759BDEF1F5C9F7FAC3478859E9.udd" 1902
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/9/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0814BFFE3113241DF647497A33B84C895E6F9EE4.udd" 1903
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___076195750B54FE10DEFD7E39CA2E014DACC71A8C.udd" 1904
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___FF9C7DAA1C725D5E9B47B4F7935F6D5000C8EE17.udd" 1905
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___D9347A0B358D982D2F6147F899CB28B38F9A572D.udd" 1906
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___495EC60C27F2AE4779CF78D33D4F8CCAE4C66EE2.udd" 1907
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___666BD8766C209F7D13EDDC9AB7695369A060AFF5.udd" 1908
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8E485064B223A07DA423702BE793EEB1B5F8D180.udd" 1909
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/6/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3D044FDE1166E83E7C0755FA6AE5CDED208A8B63.udd" 1910
+"../../../Engine/Content/Maps/Entry.umap" 1911
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1912
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A57A250E6ED2A22325737ED1A87E6C95027EF59F.udd" 1913
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___0AA424B7F607D59CD881F93A415CA9049C76F590.udd" 1914
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EE302CA614F3FEF5233BBE07927D530BE142DE30.udd" 1915
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EFC77EF87B524D2B3FD3EB0B1437D96D5FD2D08D.udd" 1916
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___EC5D17C379277E308EC2D390E972E5DAD6515E16.udd" 1917
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___A56F897DF6ABCCFDDCEA60ED36625047288B288B.udd" 1918
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Data/StageCollisionLimit.uasset" 1919
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Data/CollisionLimit.uasset" 1920
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/9/1/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F6EBB31CC8A5672E27BEBAD3309B8CB7FAF15ABD.udd" 1921
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___564FC8355A7B2C8890FACEEBA9D98E0287768F95.udd" 1922
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___461489CB20F2EFDE85E7A50C496523DDB680CCD4.udd" 1923
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/6/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___363C4729EBA57FA874450AEF09A203B2C15760AC.udd" 1924
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___38BF73ED2A89D1C9869DE479DD3E0F238274F9F3.udd" 1925
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/7/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___92F9403C5B6DAF07A73A931A216B0E14707ECF5E.udd" 1926
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___AB355649964CCF25FDD5E5D52ADB3D516DF63A14.udd" 1927
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_4547BB55413996ECEA31229BD1211__1C7CD25E9E8B2B1D13DA0258A570DFFECE2D7510.udd" 1928
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__94C9731640C5682ABB4AA8DC4E94530308D7B5A6.udd" 1929
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__81A085B8A8BFB6A30FCED28883D6F3672404725F.udd" 1930
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__4D6D4A397F21B1179C57D556BBDECFDE56FD7901.udd" 1931
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__4FC2D210D9D32FC6804CB12410828AC49EE0533B.udd" 1932
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__356F020E0559F6E7C0C1D47C0F978A18601AF985.udd" 1933
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__A668123C3EC4194AC55E8B82350B5606FE5359DC.udd" 1934
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__090FAF3041044E650FD3CECBB77B19E40B047C61.udd" 1935
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A26381E3413C6D2ABCF22694F54A1__CAAA3C69585D018687044F309A78AE2CDCDBDB39.udd" 1936
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__F6BD33493E443C96A1CA45D71CA30E8D57592D10.udd" 1937
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__ACB273244FFA17D61592798D5965648D9373D6FD.udd" 1938
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__43AC3C6EA3F6CDC040D0B75C5FCD44097D8B939E.udd" 1939
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_660E689E42063AAB68F6768D0A602__5D47CAB869E312BAF0E25CDA0345787F90B3B4AC.udd" 1940
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_CREDIT.uasset" 1941
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_EXIT.uasset" 1942
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_START.uasset" 1943
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/BMDOHYEON_FONT.uasset" 1944
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/BMDOHYEON.uasset" 1945
+"../../../Engine/Content/MapTemplates/Bokeh_5Sides.uasset" 1946
+"../../../Engine/Content/MapTemplates/T_ScreenDirt02_w.uasset" 1947
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE1_Sprite.uasset" 1948
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE1.uasset" 1949
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Audio/Island_Fever.uasset" 1950
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_251968594BC74A4375AAA1A1F8180547__1_0_0_0_2_13315_0.udd" 1951
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/AUDIO_0005_0000_OGG_0002_E783972E4EC02C6C1A3253AF6F679933.udd" 1952
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/7/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_251968594BC74A4375AAA1A1F8180547__1_0_0_0_2_13315_0.udd" 1953
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EB22274D44F0D9A1A167F8A7F05E7BF__CDEE4947CEF329728DB7078338EB2515E814A02A.udd" 1954
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D977C2984B46C40FF93878934A349F3__ADD4E3103E48453FBB513B8305416C33852AEFD0.udd" 1955
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3B879DCA4D2D81800A727B993C7764E__1A944FAE5207DB59EC190998710A1D6840524B50.udd" 1956
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7B92B04F451DFE7377B7099FD255340__2962E12CD07AC7713F2366A1AB678F34EE85167B.udd" 1957
-"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1958
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/3/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3C204EF98062271BCC6731FB3DA0D85417AA245F.udd" 1959
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1960
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1961
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___89C05B95EC094D8FE1654558F60A689F44BA818E.udd" 1962
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1963
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___DFEE0956F0EFC750159360A627133D59B2C66140.udd" 1964
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1965
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F6B36BD44041AE0BD8C6DA93B82CE39ABF7B3D5E.udd" 1966
-"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1967
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___87D0531C1D687A41DCE1DAEF3B5EA5796CB8CA5E.udd" 1968
-"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1969
-"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1970
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___88AA11932367E58CD8FE69BE8CBF0918B38697D5.udd" 1971
-"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1972
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___25DCB4724CB70398AF996D45548AFCB7F6B72F4D.udd" 1973
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1974
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1975
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1976
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1977
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1978
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1979
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1980
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1981
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1982
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1983
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1984
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1985
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1986
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1987
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1988
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1989
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1990
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1991
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1992
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1993
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/????_FONT.uasset" 1994
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/?????.uasset" 1995
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_REPLAY.uasset" 1996
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B8C22C3447CB385D756889A64886577__4C9470F7CAD6C51AA7AA413BCBB501EC75560ACD.udd" 1997
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Pause.uasset" 1998
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_BACK.uasset" 1999
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_NEXT.uasset" 2000
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_RESUME.uasset" 2001
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/kindpng_269866.uasset" 2002
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/pngaaa_com-40704.uasset" 2003
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/result.uasset" 2004
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/??1.uasset" 2005
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E566E11446D7FE6ECB9880900C40D7F__4DFE15EC290C6D0A3BF7B627A2E74B2A4684B6DF.udd" 2006
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_339B47424A25AD4551CD6BA9E5D9A68__BB87CDEB5C814720A83DB04761A4F80B9984CA8C.udd" 2007
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E2B818E749D460A1B89D06967B6409A__1487361D5E78EB2024E5EF6B7945FFF434065448.udd" 2008
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_84F1FE3E4D06330FA067589C41F84C4__39FD265080991B9A58634D0E91D3DDB4FCBE0773.udd" 2009
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_2AE4F539419C0DC3C347169DEF8CEFE__C8104ACC872EF54736BB5B904E18BFD0312ABDC4.udd" 2010
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9D8B7AE5489C370F111ECD8946BD6C2__40E12D5B4D0CAFF96DB817F4E6AA674EC41D1672.udd" 2011
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E6378D1A4B226E9A7A6E1A9BE85A26B__41BAA314B0B6EF68E8A2613EFD743B5C0C36F741.udd" 2012
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__8323E15AE349FA73EE5E2095E7F1FBF956DA6DBD.udd" 2013
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__99A2726ACD40E7E10591BE4D7CB90E610DB8D7A9.udd" 2014
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__C510BED745963B18B6A8BEB59AF9AE505C29D49B.udd" 2015
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__0CFF7714CF2FEF213C21CFBE109E09DF71A678CC.udd" 2016
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Destination.uasset" 2017
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F19BBECA41991A23180028BDB9A2A39__BB964C2C1C7B4BD5B82069814DF5A449F70D84F5.udd" 2018
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/VirtualJoystick_Thumb.uasset" 2019
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/VirtualJoystick_Background.uasset" 2020
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/T_Castle_ThumbstickOutter.uasset" 2021
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/T_Castle_ThumbstickInner.uasset" 2022
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionStick.uasset" 2023
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionPad3.uasset" 2024
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionPad2.uasset" 2025
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionPad.uasset" 2026
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButtonFire.uasset" 2027
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton3.uasset" 2028
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton2_on.uasset" 2029
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton2_off.uasset" 2030
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton1_on.uasset" 2031
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton1_off.uasset" 2032
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/LeftVirtualJoystickOnly.uasset" 2033
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/DefaultVirtualJoysticks.uasset" 2034
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/AnalogHat.uasset" 2035
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Audio/Clear.uasset" 2036
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/AUDIO_0005_0000_OGG_0002_968C197E4208A634D58104A62898B0A5.udd" 2037
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/210_????030_Font.uasset" 2038
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/210_????030.uasset" 2039
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Material/M_Wood_Oak.uasset" 2040
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_MacroVariation.uasset" 2041
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Wood_Oak_D.uasset" 2042
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Wood_Oak_N.uasset" 2043
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Audio/Bounce.uasset" 2044
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Material/JellyPhysics.uasset" 2045
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE12_BuiltData.uasset" 2046
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Material/M_Brick_Clay_Old.uasset" 2047
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Brick_Clay_Old_D.uasset" 2048
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Brick_Clay_Old_N.uasset" 2049
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Perlin_Noise_M.uasset" 2050
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE6_Sprite.uasset" 2051
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE6.uasset" 2052
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EB22274D44F0D9A1A167F8A7F05E7BF__CDEE4947CEF329728DB7078338EB2515E814A02A.udd" 1953
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_D977C2984B46C40FF93878934A349F3__ADD4E3103E48453FBB513B8305416C33852AEFD0.udd" 1954
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3B879DCA4D2D81800A727B993C7764E__1A944FAE5207DB59EC190998710A1D6840524B50.udd" 1955
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_7B92B04F451DFE7377B7099FD255340__2962E12CD07AC7713F2366A1AB678F34EE85167B.udd" 1956
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 1957
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/3/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___3C204EF98062271BCC6731FB3DA0D85417AA245F.udd" 1958
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 1959
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 1960
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___89C05B95EC094D8FE1654558F60A689F44BA818E.udd" 1961
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 1962
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/0/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___DFEE0956F0EFC750159360A627133D59B2C66140.udd" 1963
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 1964
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___F6B36BD44041AE0BD8C6DA93B82CE39ABF7B3D5E.udd" 1965
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 1966
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/8/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___87D0531C1D687A41DCE1DAEF3B5EA5796CB8CA5E.udd" 1967
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 1968
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 1969
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/5/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___88AA11932367E58CD8FE69BE8CBF0918B38697D5.udd" 1970
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 1971
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___25DCB4724CB70398AF996D45548AFCB7F6B72F4D.udd" 1972
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 1973
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 1974
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 1975
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 1976
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 1977
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 1978
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 1979
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 1980
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 1981
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 1982
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 1983
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 1984
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 1985
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 1986
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 1987
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1988
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 1989
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 1990
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1991
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1992
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/????_FONT.uasset" 1993
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/?????.uasset" 1994
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_REPLAY.uasset" 1995
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/0/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_B8C22C3447CB385D756889A64886577__4C9470F7CAD6C51AA7AA413BCBB501EC75560ACD.udd" 1996
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Pause.uasset" 1997
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_BACK.uasset" 1998
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_NEXT.uasset" 1999
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/IMAGE_RESUME.uasset" 2000
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/kindpng_269866.uasset" 2001
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/pngaaa_com-40704.uasset" 2002
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/result.uasset" 2003
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/??1.uasset" 2004
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E566E11446D7FE6ECB9880900C40D7F__4DFE15EC290C6D0A3BF7B627A2E74B2A4684B6DF.udd" 2005
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_339B47424A25AD4551CD6BA9E5D9A68__BB87CDEB5C814720A83DB04761A4F80B9984CA8C.udd" 2006
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E2B818E749D460A1B89D06967B6409A__1487361D5E78EB2024E5EF6B7945FFF434065448.udd" 2007
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_84F1FE3E4D06330FA067589C41F84C4__39FD265080991B9A58634D0E91D3DDB4FCBE0773.udd" 2008
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_2AE4F539419C0DC3C347169DEF8CEFE__C8104ACC872EF54736BB5B904E18BFD0312ABDC4.udd" 2009
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_9D8B7AE5489C370F111ECD8946BD6C2__40E12D5B4D0CAFF96DB817F4E6AA674EC41D1672.udd" 2010
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_E6378D1A4B226E9A7A6E1A9BE85A26B__41BAA314B0B6EF68E8A2613EFD743B5C0C36F741.udd" 2011
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__8323E15AE349FA73EE5E2095E7F1FBF956DA6DBD.udd" 2012
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__99A2726ACD40E7E10591BE4D7CB90E610DB8D7A9.udd" 2013
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__C510BED745963B18B6A8BEB59AF9AE505C29D49B.udd" 2014
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_7AF778544CB1C62B212DD1852D4CF__0CFF7714CF2FEF213C21CFBE109E09DF71A678CC.udd" 2015
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/Destination.uasset" 2016
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_F19BBECA41991A23180028BDB9A2A39__BB964C2C1C7B4BD5B82069814DF5A449F70D84F5.udd" 2017
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/VirtualJoystick_Thumb.uasset" 2018
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/VirtualJoystick_Background.uasset" 2019
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/T_Castle_ThumbstickOutter.uasset" 2020
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/T_Castle_ThumbstickInner.uasset" 2021
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionStick.uasset" 2022
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionPad3.uasset" 2023
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionPad2.uasset" 2024
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDDirectionPad.uasset" 2025
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButtonFire.uasset" 2026
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton3.uasset" 2027
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton2_on.uasset" 2028
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton2_off.uasset" 2029
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton1_on.uasset" 2030
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/MobileHUDButton1_off.uasset" 2031
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/LeftVirtualJoystickOnly.uasset" 2032
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/DefaultVirtualJoysticks.uasset" 2033
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/HUD/EngineSource/AnalogHat.uasset" 2034
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Audio/Clear.uasset" 2035
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/6/AUDIO_0005_0000_OGG_0002_968C197E4208A634D58104A62898B0A5.udd" 2036
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/210_????030_Font.uasset" 2037
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/UI/Font/210_????030.uasset" 2038
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Material/M_Wood_Oak.uasset" 2039
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_MacroVariation.uasset" 2040
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Wood_Oak_D.uasset" 2041
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Wood_Oak_N.uasset" 2042
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Audio/Bounce.uasset" 2043
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Material/JellyPhysics.uasset" 2044
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE12_BuiltData.uasset" 2045
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Material/M_Brick_Clay_Old.uasset" 2046
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Brick_Clay_Old_D.uasset" 2047
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Brick_Clay_Old_N.uasset" 2048
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/T_Perlin_Noise_M.uasset" 2049
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE6_Sprite.uasset" 2050
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE6.uasset" 2051
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_6134C471457055AD6E72AA8C53B950A9__1_0_0_0_2_13315_0.udd" 2052
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/8/AUDIO_0005_0000_OGG_0002_51AB12824EE31F04677F429DA4C53F7F.udd" 2053
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_6134C471457055AD6E72AA8C53B950A9__1_0_0_0_2_13315_0.udd" 2054
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2055
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2056
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_AB8B9571482BC9FC4191DAB4F7F7C75__A677E3428D5622095C5147C5FBC6232E397E965F.udd" 2057
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8AB977A63D9457C286A672C0E3DBC2205DB0F48E.udd" 2058
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_11AA624748271218C02602A886319__D7FE2AE09A0046635BB7BE5B7B26B1EA9BC44D4E.udd" 2059
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_B0A4ECCE4566E212B1D3D9A14E67F601__AEECCAA69EB8F5926FB71903BF8E0C08ECFD2516.udd" 2060
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_11AA624748271218C02602A886319__33A744DAD790A2D5BFAFDB5E992C222EB5B178D0.udd" 2061
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_11AA624748271218C02602A886319__5DEF2E64F8C22C29E94950B70C13A2E2B47D02F2.udd" 2062
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__9834AD601336C70573482729DA01DD1EA1D7F02E.udd" 2063
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_B0A4ECCE4566E212B1D3D9A14E67F601__1063EF85BECB0BCC9FD1A084AA074E30C31CDA3B.udd" 2064
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_B0A4ECCE4566E212B1D3D9A14E67F601__BEC4CF05B5A3BF10948D09F669C8AB85DF6D9485.udd" 2065
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__48E229B0A3C6A911F2246D158E127F7F9CC93198.udd" 2066
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__64D678AA5BE3F3917BAB2AFE63EFAD48C615B700.udd" 2067
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__8307EA066AE06AE2DB6BCF51691AA0B78E38936F.udd" 2068
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/3/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___251163A742286AE7E80E90FF152F4BF37C45D50D.udd" 2069
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE10_BuiltData.uasset" 2070
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE5_Sprite.uasset" 2071
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE5.uasset" 2072
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_4068E0F042F95FC039165CA211B4C238__1_0_0_0_2_13315_0.udd" 2073
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EB0F3F0048342E7A4C47D3B9D6C35DD__DA0B833DC1A61CB35FC8432AC2E8F76E83730828.udd" 2074
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B974ADA04A387E38EFE00E88965DC__9E2AB473B127540406D7D2CA37504D42BC3E6F40.udd" 2075
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_4FC6A064410914F90F850FA1F68D9760__DC6964C4353A06679D8C69721999E59390A56BF6.udd" 2076
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__BAE19941C0E0F562F5D6FDCCD5A50E9AA5145E9B.udd" 2077
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_4FC6A064410914F90F850FA1F68D9760__D2856497C6B7DC78C9CB6903BD5CC761661AA573.udd" 2078
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B974ADA04A387E38EFE00E88965DC__92E632C290970706FD70049AE2D16E9578F99A7D.udd" 2079
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__19E759DD0D0BD7C1068AE49DAA027344F5682D97.udd" 2080
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__1F4BC3D7E2EE72B643B9DDFDF93DA84451D09B16.udd" 2081
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B974ADA04A387E38EFE00E88965DC__27352B20EC5E75F237442FD288C7CE8C34DBB54D.udd" 2082
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__D793D03DCC5804A7EE3592264A14AD2B0084DA67.udd" 2083
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_4FC6A064410914F90F850FA1F68D9760__4970C54FD0170B6643FB9FAAB6FF2B2E25B2D340.udd" 2084
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE9_BuiltData.uasset" 2085
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DE16B52D4A93CC3A8352A896DE286__9A386CD865D3D00D8DB7714B23D5CE1730ACCCA5.udd" 2086
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_264E12EB4ADA7C52996D8B93F5FD78D7__16386A46A20C84170EEFBC2CE016F2E1BDBAD684.udd" 2087
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__8696AADE9BA0765E988543D7E2FB3719323BB03C.udd" 2088
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DE16B52D4A93CC3A8352A896DE286__6C34E88F5593D78E7058B521FAA29787DFB87263.udd" 2089
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DE16B52D4A93CC3A8352A896DE286__5F25D5788DD6B23E038CD373A6BCE38B61DDFFBB.udd" 2090
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 2054
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 2055
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_AB8B9571482BC9FC4191DAB4F7F7C75__A677E3428D5622095C5147C5FBC6232E397E965F.udd" 2056
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/2/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___8AB977A63D9457C286A672C0E3DBC2205DB0F48E.udd" 2057
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_11AA624748271218C02602A886319__D7FE2AE09A0046635BB7BE5B7B26B1EA9BC44D4E.udd" 2058
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_B0A4ECCE4566E212B1D3D9A14E67F601__AEECCAA69EB8F5926FB71903BF8E0C08ECFD2516.udd" 2059
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__9834AD601336C70573482729DA01DD1EA1D7F02E.udd" 2060
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__8307EA066AE06AE2DB6BCF51691AA0B78E38936F.udd" 2061
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_B0A4ECCE4566E212B1D3D9A14E67F601__1063EF85BECB0BCC9FD1A084AA074E30C31CDA3B.udd" 2062
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__48E229B0A3C6A911F2246D158E127F7F9CC93198.udd" 2063
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_B0A4ECCE4566E212B1D3D9A14E67F601__BEC4CF05B5A3BF10948D09F669C8AB85DF6D9485.udd" 2064
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_11AA624748271218C02602A886319__5DEF2E64F8C22C29E94950B70C13A2E2B47D02F2.udd" 2065
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_CD5896B1422E62953D272AA5D2234448_0__64D678AA5BE3F3917BAB2AFE63EFAD48C615B700.udd" 2066
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_11AA624748271218C02602A886319__33A744DAD790A2D5BFAFDB5E992C222EB5B178D0.udd" 2067
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/3/MATSM_36C14CFABCD54E0E846080318C712DCE_PCD3D_SM5_8__BC5N_NOCCBN_NOIRIS_DEV_SL___251163A742286AE7E80E90FF152F4BF37C45D50D.udd" 2068
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE10_BuiltData.uasset" 2069
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE5_Sprite.uasset" 2070
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE5.uasset" 2071
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/0/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_4068E0F042F95FC039165CA211B4C238__1_0_0_0_2_13315_0.udd" 2072
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_EB0F3F0048342E7A4C47D3B9D6C35DD__DA0B833DC1A61CB35FC8432AC2E8F76E83730828.udd" 2073
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_4FC6A064410914F90F850FA1F68D9760__DC6964C4353A06679D8C69721999E59390A56BF6.udd" 2074
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__BAE19941C0E0F562F5D6FDCCD5A50E9AA5145E9B.udd" 2075
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B974ADA04A387E38EFE00E88965DC__9E2AB473B127540406D7D2CA37504D42BC3E6F40.udd" 2076
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/6/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__19E759DD0D0BD7C1068AE49DAA027344F5682D97.udd" 2077
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B974ADA04A387E38EFE00E88965DC__92E632C290970706FD70049AE2D16E9578F99A7D.udd" 2078
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_4FC6A064410914F90F850FA1F68D9760__D2856497C6B7DC78C9CB6903BD5CC761661AA573.udd" 2079
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_4FC6A064410914F90F850FA1F68D9760__4970C54FD0170B6643FB9FAAB6FF2B2E25B2D340.udd" 2080
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_B974ADA04A387E38EFE00E88965DC__27352B20EC5E75F237442FD288C7CE8C34DBB54D.udd" 2081
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__D793D03DCC5804A7EE3592264A14AD2B0084DA67.udd" 2082
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_702946ED4E15C703021FA7901FCD2C7A_0__1F4BC3D7E2EE72B643B9DDFDF93DA84451D09B16.udd" 2083
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE9_BuiltData.uasset" 2084
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_264E12EB4ADA7C52996D8B93F5FD78D7__16386A46A20C84170EEFBC2CE016F2E1BDBAD684.udd" 2085
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__8696AADE9BA0765E988543D7E2FB3719323BB03C.udd" 2086
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DE16B52D4A93CC3A8352A896DE286__9A386CD865D3D00D8DB7714B23D5CE1730ACCCA5.udd" 2087
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__F78F30C672ACFA1B3039097118D66A7780B24966.udd" 2088
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__0F7BB45B3A80FC486D607EDEFC3A8E437147209A.udd" 2089
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__F25D6DCE57B3C42E06EB8E0C0505AFC10A070F07.udd" 2090
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_264E12EB4ADA7C52996D8B93F5FD78D7__9FBD69E75A3A87B003395F81A3A70E872BC2AAA9.udd" 2091
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_264E12EB4ADA7C52996D8B93F5FD78D7__97683EFF56BFAACABE2470406873FEAB6CD22D61.udd" 2092
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__0F7BB45B3A80FC486D607EDEFC3A8E437147209A.udd" 2093
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__F25D6DCE57B3C42E06EB8E0C0505AFC10A070F07.udd" 2094
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_09FCC913437372EE759C3B9986024D0C_0__F78F30C672ACFA1B3039097118D66A7780B24966.udd" 2095
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE7_BuiltData.uasset" 2096
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE4_Sprite.uasset" 2097
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE4.uasset" 2098
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6285B7AB45892182EE0F8BA2179BAA9__6E4AE51AD3C2A4E05C6EE0A370C57C1824335CFC.udd" 2099
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE5_BuiltData.uasset" 2100
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE3_Sprite.uasset" 2101
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE3.uasset" 2102
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A9672BFB4E6954E4714EC89262E0B6A8__1_0_0_0_2_13315_0.udd" 2103
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8E86ECFF463240E7BF96D4BE71122__91642A339B798544CAFA87742D057C57C4108524.udd" 2104
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CBA0043448B327DFF34BF78E57C49C42__0D7627259EB91F008C2740AD39B4176C3D01A43A.udd" 2105
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__5AA26CD1C72BEEA042AB4A95218FA2E6B9E0ECB9.udd" 2106
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8E86ECFF463240E7BF96D4BE71122__511A0A544B6DA2CF7B70C8DDD97C68EBC97938D9.udd" 2107
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8E86ECFF463240E7BF96D4BE71122__A284013C7FF9239800356DC212C1AA3B38AA07B3.udd" 2108
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CBA0043448B327DFF34BF78E57C49C42__4909C906FB8D631C748383279D06C0051D4AF4F3.udd" 2109
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CBA0043448B327DFF34BF78E57C49C42__12C5CDB5B3EA3A2E915D27F6943E2F11F539861F.udd" 2110
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__568E17AB244F85DD6C44507E4053872F315ECB72.udd" 2111
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__413C0456F3CC241CA58BE8B3AED60786CA7B954A.udd" 2112
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__DDEDC71F4BAE7F993796ACF163DBF4C153C5083F.udd" 2113
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__9789C94AF4CAD182DDCC567B323E7C9C4FFFBD19.udd" 2114
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__D146A067D9055D95D1D365039BBE6D20CF1C2E99.udd" 2115
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__8791CD7B34787E4EF8A47DF58E6C596C5F1B606C.udd" 2116
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__409768E55E088E2CE18D6FE19620E0E40E57BC26.udd" 2117
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__820496C7F002D31915C556F1AC07CD334B79E975.udd" 2118
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__5A251F0A8202E124A4484741B3CE3423A0393B97.udd" 2119
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__A3050D4077280FEADC4AE14AB1E901D65EA9F437.udd" 2120
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__28675C680AE2C0FA2219C2A90CCD5CC878635A08.udd" 2121
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__61A3D671527785EE31151E899A6AEC53586E6C60.udd" 2122
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__80D42085D4C2D81121BBE70AA3EFDD4F150A258A.udd" 2123
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__A98E9F38F92973271E0234CB0802AE7711B5FD7B.udd" 2124
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DE16B52D4A93CC3A8352A896DE286__5F25D5788DD6B23E038CD373A6BCE38B61DDFFBB.udd" 2093
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_DE16B52D4A93CC3A8352A896DE286__6C34E88F5593D78E7058B521FAA29787DFB87263.udd" 2094
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE7_BuiltData.uasset" 2095
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE4_Sprite.uasset" 2096
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE4.uasset" 2097
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__5AA26CD1C72BEEA042AB4A95218FA2E6B9E0ECB9.udd" 2098
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CBA0043448B327DFF34BF78E57C49C42__0D7627259EB91F008C2740AD39B4176C3D01A43A.udd" 2099
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8E86ECFF463240E7BF96D4BE71122__91642A339B798544CAFA87742D057C57C4108524.udd" 2100
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_6285B7AB45892182EE0F8BA2179BAA9__6E4AE51AD3C2A4E05C6EE0A370C57C1824335CFC.udd" 2101
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__568E17AB244F85DD6C44507E4053872F315ECB72.udd" 2102
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CBA0043448B327DFF34BF78E57C49C42__4909C906FB8D631C748383279D06C0051D4AF4F3.udd" 2103
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_CBA0043448B327DFF34BF78E57C49C42__12C5CDB5B3EA3A2E915D27F6943E2F11F539861F.udd" 2104
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__413C0456F3CC241CA58BE8B3AED60786CA7B954A.udd" 2105
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8E86ECFF463240E7BF96D4BE71122__A284013C7FF9239800356DC212C1AA3B38AA07B3.udd" 2106
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_EF761BDE4D372BDD4BEC648A3A39A922_0__DDEDC71F4BAE7F993796ACF163DBF4C153C5083F.udd" 2107
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE5_BuiltData.uasset" 2108
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE3_Sprite.uasset" 2109
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE3.uasset" 2110
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_8E86ECFF463240E7BF96D4BE71122__511A0A544B6DA2CF7B70C8DDD97C68EBC97938D9.udd" 2111
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/1/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_A9672BFB4E6954E4714EC89262E0B6A8__1_0_0_0_2_13315_0.udd" 2112
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__9789C94AF4CAD182DDCC567B323E7C9C4FFFBD19.udd" 2113
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__D146A067D9055D95D1D365039BBE6D20CF1C2E99.udd" 2114
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__8791CD7B34787E4EF8A47DF58E6C596C5F1B606C.udd" 2115
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0352B4CF43AD8E88117864957FC9F28__CAD19C6134FA882E758385827696936306C7AE34.udd" 2116
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__5A251F0A8202E124A4484741B3CE3423A0393B97.udd" 2117
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__28675C680AE2C0FA2219C2A90CCD5CC878635A08.udd" 2118
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__820496C7F002D31915C556F1AC07CD334B79E975.udd" 2119
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__61A3D671527785EE31151E899A6AEC53586E6C60.udd" 2120
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__A3050D4077280FEADC4AE14AB1E901D65EA9F437.udd" 2121
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__A98E9F38F92973271E0234CB0802AE7711B5FD7B.udd" 2122
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_955E83AE4F1069B596ABE9A3098C1__409768E55E088E2CE18D6FE19620E0E40E57BC26.udd" 2123
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_25CD90D049282C1EC47D858D6CFF3D31__80D42085D4C2D81121BBE70AA3EFDD4F150A258A.udd" 2124
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__D8023A61E638688911D1D1E1549F33B561A6E131.udd" 2125
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_339ED08B42FFB8F476E6EBB45F99BBC8_0__D888D966A3D01C91F3169F3C62EC96A4E53FF111.udd" 2126
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_0352B4CF43AD8E88117864957FC9F28__CAD19C6134FA882E758385827696936306C7AE34.udd" 2127
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE3_BuiltData.uasset" 2128
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE2_Sprite.uasset" 2129
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE2.uasset" 2130
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE3_BuiltData.uasset" 2127
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Sprite/BG_STAGE2_Sprite.uasset" 2128
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Art/Textures/BG_STAGE2.uasset" 2129
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C33FA842454A59B37077D6B65F24F19__7BB9DD817AD3C1F2A27DC3E413F9724F6284FAE4.udd" 2130
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/3/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_63ECFFA549126848666DF19772251__FBCCC2F3D28CC7DAFC48DF41BB0B08A2BEC7D1CE.udd" 2131
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1720250245F29DF67074A88488DAFDDC__DD70C163AA0AB13A51EFC1256E51E2AF7DA2D8CA.udd" 2132
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_63ECFFA549126848666DF19772251__7C69C7DFBCC047E36DD188F457AE463276652251.udd" 2133
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_63ECFFA549126848666DF19772251__4B11F2A158E0F8E3A590224F3018AAAF10E9169C.udd" 2134
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__D50231EEE3BC8EAFB108098900F82A44ED0D4DF3.udd" 2135
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1720250245F29DF67074A88488DAFDDC__990A67C91064FBA1F1841579482F118A82F13CA0.udd" 2136
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1720250245F29DF67074A88488DAFDDC__7BA552BE3167CD6A2EB70C68C647B3E31693C8CB.udd" 2137
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__94AA95C14112A6FF8E9826E23D14BC6F8C551ACA.udd" 2138
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__BA569719591F76162372480979FC048A3DDB5E94.udd" 2139
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__F66346E4BAD22169CB19196CDFD3C657A0727D33.udd" 2140
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_C33FA842454A59B37077D6B65F24F19__7BB9DD817AD3C1F2A27DC3E413F9724F6284FAE4.udd" 2141
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE1_BuiltData.uasset" 2142
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A555C36146D8F57F52B9DFAC61905__84DD49086FBD05EFBFC8FCD114E274396D9E0A5A.udd" 2143
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_ACE61EDB47976E5679C547892945B935__5442A11A4C4489D46C1BE852BE6F1603C0DB646C.udd" 2144
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A555C36146D8F57F52B9DFAC61905__4B05F33893DDCB067707866859B40D7A5988E8F7.udd" 2145
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__D50231EEE3BC8EAFB108098900F82A44ED0D4DF3.udd" 2133
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__94AA95C14112A6FF8E9826E23D14BC6F8C551ACA.udd" 2134
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__F66346E4BAD22169CB19196CDFD3C657A0727D33.udd" 2135
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_63ECFFA549126848666DF19772251__7C69C7DFBCC047E36DD188F457AE463276652251.udd" 2136
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1720250245F29DF67074A88488DAFDDC__990A67C91064FBA1F1841579482F118A82F13CA0.udd" 2137
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_7E89D00E4F4CDF79965A90AE715D7FFA_0__BA569719591F76162372480979FC048A3DDB5E94.udd" 2138
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1720250245F29DF67074A88488DAFDDC__7BA552BE3167CD6A2EB70C68C647B3E31693C8CB.udd" 2139
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_63ECFFA549126848666DF19772251__4B11F2A158E0F8E3A590224F3018AAAF10E9169C.udd" 2140
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE1_BuiltData.uasset" 2141
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A555C36146D8F57F52B9DFAC61905__84DD49086FBD05EFBFC8FCD114E274396D9E0A5A.udd" 2142
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_ACE61EDB47976E5679C547892945B935__5442A11A4C4489D46C1BE852BE6F1603C0DB646C.udd" 2143
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A555C36146D8F57F52B9DFAC61905__4B05F33893DDCB067707866859B40D7A5988E8F7.udd" 2144
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_F214EFC24E21469B251509A5066B9447_0__ACB00E79A117E1BAD7EA46AA89578B9A5A265C46.udd" 2145
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A555C36146D8F57F52B9DFAC61905__AA27895C888ACCB85CA27A5DA91159587F702002.udd" 2146
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_F214EFC24E21469B251509A5066B9447_0__ACB00E79A117E1BAD7EA46AA89578B9A5A265C46.udd" 2147
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_ACE61EDB47976E5679C547892945B935__F72D37111A6A05C1EF140646A89EC802DB3249B8.udd" 2148
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_F214EFC24E21469B251509A5066B9447_0__7F449E7C2FCF68F4859EEFCE660A27BFD7146605.udd" 2147
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_F214EFC24E21469B251509A5066B9447_0__E2050895D307AD11248AF546C16EB1B29999B96C.udd" 2148
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_ACE61EDB47976E5679C547892945B935__D6567B55C47D7151A9C1947EB4E1C32FDD7D8196.udd" 2149
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_F214EFC24E21469B251509A5066B9447_0__7F449E7C2FCF68F4859EEFCE660A27BFD7146605.udd" 2150
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_F214EFC24E21469B251509A5066B9447_0__E2050895D307AD11248AF546C16EB1B29999B96C.udd" 2151
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE11_BuiltData.uasset" 2152
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A9F8FA5747A05608DB760291BA219__D061ACD8196CA4930C2AFC506B6B534946F58624.udd" 2153
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_ACE61EDB47976E5679C547892945B935__F72D37111A6A05C1EF140646A89EC802DB3249B8.udd" 2150
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE10-19/STAGE11_BuiltData.uasset" 2151
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A9F8FA5747A05608DB760291BA219__D061ACD8196CA4930C2AFC506B6B534946F58624.udd" 2152
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__180627B4839FE11EEB2F944641184D7809EEE0E5.udd" 2153
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_57E764A84ECBBAAFFF01BE9163C3C8E8__24A21BC25F5DBE738D8F72F4270BEC44E50A6586.udd" 2154
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A9F8FA5747A05608DB760291BA219__56EF8D2DBE63A1C8312D30105C2656D9E6030292.udd" 2155
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__B665026523E5596F41F8F3B5832F99F39F84D469.udd" 2155
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/7/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A9F8FA5747A05608DB760291BA219__6AE2DE864FDC5D768F3D377B16767E7027AEA17D.udd" 2156
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__180627B4839FE11EEB2F944641184D7809EEE0E5.udd" 2157
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_57E764A84ECBBAAFFF01BE9163C3C8E8__B71BBDE4899E292DCDACEB2DDCF14749DC363AEB.udd" 2158
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_57E764A84ECBBAAFFF01BE9163C3C8E8__E016316E132B82AE1CF5F65E45EDB235F519865C.udd" 2159
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__8B6121D8491AE4B0ABC199B7B1D77A2ED979C954.udd" 2160
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__9895DCA9887ED3B4B3DFD084517634E9B3E27BA5.udd" 2161
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__B665026523E5596F41F8F3B5832F99F39F84D469.udd" 2162
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE6_BuiltData.uasset" 2163
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_861C16E744DE7EED4A1413AF224D8__13DEFECC55FCEB6466230F83B9DCED649B8AEC6B.udd" 2164
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_665E624C4568146E7BBCA3BD192219F6__08BBFA75D030C76A1C552518CA43404A604B2F7C.udd" 2165
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_861C16E744DE7EED4A1413AF224D8__16946153473EE11967C169DD76D6A2461F5C3E23.udd" 2166
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_A9F8FA5747A05608DB760291BA219__56EF8D2DBE63A1C8312D30105C2656D9E6030292.udd" 2157
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__9895DCA9887ED3B4B3DFD084517634E9B3E27BA5.udd" 2158
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_739CB56849189208781C53B128DDDF29_0__8B6121D8491AE4B0ABC199B7B1D77A2ED979C954.udd" 2159
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_57E764A84ECBBAAFFF01BE9163C3C8E8__B71BBDE4899E292DCDACEB2DDCF14749DC363AEB.udd" 2160
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_57E764A84ECBBAAFFF01BE9163C3C8E8__E016316E132B82AE1CF5F65E45EDB235F519865C.udd" 2161
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE6_BuiltData.uasset" 2162
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/6/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_861C16E744DE7EED4A1413AF224D8__13DEFECC55FCEB6466230F83B9DCED649B8AEC6B.udd" 2163
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_665E624C4568146E7BBCA3BD192219F6__08BBFA75D030C76A1C552518CA43404A604B2F7C.udd" 2164
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__D96419C96F89562BFF21BAEEE4C769211D80B4F9.udd" 2165
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_665E624C4568146E7BBCA3BD192219F6__92744B6529EC637BD1B0665F861096F2A11BA3AC.udd" 2166
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_861C16E744DE7EED4A1413AF224D8__20CD2D99A60FF0059251028E676E8ED64C126DEF.udd" 2167
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__D96419C96F89562BFF21BAEEE4C769211D80B4F9.udd" 2168
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_665E624C4568146E7BBCA3BD192219F6__87DD39B37FA7110F2E394837CB6FE2E2A201C55C.udd" 2169
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_665E624C4568146E7BBCA3BD192219F6__92744B6529EC637BD1B0665F861096F2A11BA3AC.udd" 2170
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__32B0822E47B5E0A0C825B3F0E27951061229EB71.udd" 2171
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__8F285892BC825E435559AFDDCA2DBB791ECDEB5E.udd" 2172
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__3672DAE96457622FB02C13F4C8C0BA1AAC24E2EC.udd" 2173
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE4_BuiltData.uasset" 2174
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ACEDBCDE4DA9A38E05188BAF53410__BC4C5B542108285C3BA6CDDC30A1E2DF58A20B36.udd" 2175
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1A8864D64DE3EF744631F5BB82007F38__D85C1D817FDDFABEE13535F33E2D16D3D6FA24C2.udd" 2176
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__48A27164C13BD6A61F056047E10C61FB27F2BC9F.udd" 2177
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ACEDBCDE4DA9A38E05188BAF53410__98232B4136F73235550C4436666D58BC40E52596.udd" 2178
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_861C16E744DE7EED4A1413AF224D8__16946153473EE11967C169DD76D6A2461F5C3E23.udd" 2168
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__8F285892BC825E435559AFDDCA2DBB791ECDEB5E.udd" 2169
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_665E624C4568146E7BBCA3BD192219F6__87DD39B37FA7110F2E394837CB6FE2E2A201C55C.udd" 2170
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__3672DAE96457622FB02C13F4C8C0BA1AAC24E2EC.udd" 2171
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_E422033B4E1BB3E4185DC4B73AA765AE_0__32B0822E47B5E0A0C825B3F0E27951061229EB71.udd" 2172
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE4_BuiltData.uasset" 2173
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/8/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ACEDBCDE4DA9A38E05188BAF53410__BC4C5B542108285C3BA6CDDC30A1E2DF58A20B36.udd" 2174
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1A8864D64DE3EF744631F5BB82007F38__D85C1D817FDDFABEE13535F33E2D16D3D6FA24C2.udd" 2175
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__48A27164C13BD6A61F056047E10C61FB27F2BC9F.udd" 2176
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1A8864D64DE3EF744631F5BB82007F38__3B72747D5A3D7636C7AACF99938EF1A2FE5F23A1.udd" 2177
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__3165A5514F2B8866F57CCA2AAF91C5D87650D284.udd" 2178
 "C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ACEDBCDE4DA9A38E05188BAF53410__EA12001967220376237A8FFE5D2B3B3EA22E357A.udd" 2179
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1A8864D64DE3EF744631F5BB82007F38__07307C3E259C8BDF712B7AD83B10CBE5EA747615.udd" 2180
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1A8864D64DE3EF744631F5BB82007F38__3B72747D5A3D7636C7AACF99938EF1A2FE5F23A1.udd" 2181
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/1/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__3165A5514F2B8866F57CCA2AAF91C5D87650D284.udd" 2182
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__8819B467920D5033174D04D859456E0CDF0C2ECE.udd" 2183
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__CE40E2DAE5662BAD5824024252B96AACD339B26A.udd" 2184
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/MainMenu_backup_BuiltData.uasset" 2185
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE8_BuiltData.uasset" 2186
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EFF773644F22850B027CCFAD82635__E9DA6067A624476630A6A528FFE6900242E5810E.udd" 2187
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_EB6342DF4C220FE7334430AE5CB12040__C56030935633A49CC241E761B06FFE3673F76885.udd" 2188
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_EB6342DF4C220FE7334430AE5CB12040__767B3C21FB18D262CFDB72DDF97835D09456F369.udd" 2189
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__9DDC9CD27E43FFE83319F9ED462C410B5CAE7800.udd" 2190
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_EB6342DF4C220FE7334430AE5CB12040__8924ED4651A6EAC32EE4FB03F0E54ED459205198.udd" 2191
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EFF773644F22850B027CCFAD82635__7D42E30DBAB6FA40AFB0950711005C7616AEF162.udd" 2192
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EFF773644F22850B027CCFAD82635__E08FF77E863C075535D1DDD49D89DAE42AD4D75E.udd" 2193
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__2B5AFE36EB5E7A01B9DC1EBD3AE21D84B0A537C0.udd" 2194
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__47D606748B1EF8E821FD08E807F8FB8B9AA9437D.udd" 2195
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__E7F74393AD340D1BC931FEBF5715F73D85F1DD3C.udd" 2196
-"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE2_BuiltData.uasset" 2197
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_420E530144B8A009F92CA59131D56__BDE9B89F304E1D57B9926F8C7887DD2FD10040E1.udd" 2198
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7CC4579F494F907915A74A91AC0CE0FE__35AA66EFA0EFF199FD204E4E947943592EC05592.udd" 2199
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_A294D42541F77C13614980BD2EFCF33F_0__F7BA382A8AB3E7ABE61711AAFAC19AD7704182CD.udd" 2200
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_420E530144B8A009F92CA59131D56__BA8C0C3CC689CDFFDB78D013D2C6EE35AB6FDD2F.udd" 2201
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7CC4579F494F907915A74A91AC0CE0FE__F782B5FBEA5D29D18F8CC8595B2162F1E4A2C3D6.udd" 2202
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_A294D42541F77C13614980BD2EFCF33F_0__B9FEE3F934A4B7BAFF97589735377C0BF0A33E74.udd" 2203
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_420E530144B8A009F92CA59131D56__D8B30FF80ED8B836CA9D6816DE6AC3AF07F027F4.udd" 2204
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_A294D42541F77C13614980BD2EFCF33F_0__D7107C3A98C067956FA9F0E23F228575E05ABA80.udd" 2205
-"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7CC4579F494F907915A74A91AC0CE0FE__8FD310B9514E491E3E8CC52F1984487EB175625C.udd" 2206
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__8819B467920D5033174D04D859456E0CDF0C2ECE.udd" 2180
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_1A8864D64DE3EF744631F5BB82007F38__07307C3E259C8BDF712B7AD83B10CBE5EA747615.udd" 2181
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_ACEDBCDE4DA9A38E05188BAF53410__98232B4136F73235550C4436666D58BC40E52596.udd" 2182
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_C698095D49090D3D6720F5AD95588C51_0__CE40E2DAE5662BAD5824024252B96AACD339B26A.udd" 2183
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE8_BuiltData.uasset" 2184
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__9DDC9CD27E43FFE83319F9ED462C410B5CAE7800.udd" 2185
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EFF773644F22850B027CCFAD82635__E9DA6067A624476630A6A528FFE6900242E5810E.udd" 2186
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_EB6342DF4C220FE7334430AE5CB12040__C56030935633A49CC241E761B06FFE3673F76885.udd" 2187
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__47D606748B1EF8E821FD08E807F8FB8B9AA9437D.udd" 2188
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/0/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EFF773644F22850B027CCFAD82635__7D42E30DBAB6FA40AFB0950711005C7616AEF162.udd" 2189
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__2B5AFE36EB5E7A01B9DC1EBD3AE21D84B0A537C0.udd" 2190
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_AD3048AA438837C10CFD5E9D012AB77A_0__E7F74393AD340D1BC931FEBF5715F73D85F1DD3C.udd" 2191
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_EFF773644F22850B027CCFAD82635__E08FF77E863C075535D1DDD49D89DAE42AD4D75E.udd" 2192
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_EB6342DF4C220FE7334430AE5CB12040__8924ED4651A6EAC32EE4FB03F0E54ED459205198.udd" 2193
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/7/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_EB6342DF4C220FE7334430AE5CB12040__767B3C21FB18D262CFDB72DDF97835D09456F369.udd" 2194
+"F:/Unreal Projects/RollingJelly 4.23/RollingJelly/Content/Maps/STAGE1-9/STAGE2_BuiltData.uasset" 2195
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/0/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_A294D42541F77C13614980BD2EFCF33F_0__F7BA382A8AB3E7ABE61711AAFAC19AD7704182CD.udd" 2196
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_420E530144B8A009F92CA59131D56__BDE9B89F304E1D57B9926F8C7887DD2FD10040E1.udd" 2197
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/2/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7CC4579F494F907915A74A91AC0CE0FE__35AA66EFA0EFF199FD204E4E947943592EC05592.udd" 2198
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7CC4579F494F907915A74A91AC0CE0FE__8FD310B9514E491E3E8CC52F1984487EB175625C.udd" 2199
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/4/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_A294D42541F77C13614980BD2EFCF33F_0__D7107C3A98C067956FA9F0E23F228575E05ABA80.udd" 2200
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_G8_A294D42541F77C13614980BD2EFCF33F_0__B9FEE3F934A4B7BAFF97589735377C0BF0A33E74.udd" 2201
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_420E530144B8A009F92CA59131D56__BA8C0C3CC689CDFFDB78D013D2C6EE35AB6FDD2F.udd" 2202
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/2/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AUTODXT_420E530144B8A009F92CA59131D56__D8B30FF80ED8B836CA9D6816DE6AC3AF07F027F4.udd" 2203
+"C:/Users/swp55/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/5/TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_DXT1_7CC4579F494F907915A74A91AC0CE0FE__F782B5FBEA5D29D18F8CC8595B2162F1E4A2C3D6.udd" 2204
