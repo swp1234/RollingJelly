@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.EDGE.RollingJelly;
+package com.EDGE.FishPong;
 
 import com.google.android.vending.expansion.downloader.DownloaderClientMarshaller;
 

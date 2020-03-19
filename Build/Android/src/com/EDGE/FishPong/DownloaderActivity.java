@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.EDGE.RollingJelly;
+package com.EDGE.FishPong;
 
 import com.android.vending.expansion.zipfile.ZipResourceFile;
 import com.android.vending.expansion.zipfile.ZipResourceFile.ZipEntryRO;

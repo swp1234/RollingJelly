@@ -1,10 +1,10 @@
 package com.epicgames.ue4;
 
-import com.EDGE.RollingJelly.OBBDownloaderService;
-import com.EDGE.RollingJelly.DownloaderActivity;
+import com.EDGE.FishPong.OBBDownloaderService;
+import com.EDGE.FishPong.DownloaderActivity;
 import android.app.Activity;
 import com.google.android.vending.expansion.downloader.Helpers;
-import com.EDGE.RollingJelly.OBBData;
+import com.EDGE.FishPong.OBBData;
 
 
 public class DownloadShim
